@@ -15,7 +15,7 @@ Crear una App de música similar a las que utilizan.
 
 ## Seguir el manual anexo
 
-## Por supuesto deben generar sus propias imágenes de canciones:
+## Por supuesto deben generar sus propias imágenes de canciones
 
 - 5 para Mood Weekend
 - 5 para Top Albums
