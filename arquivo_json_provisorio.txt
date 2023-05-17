@@ -1,0 +1,51 @@
+Top albuns:
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/cazwell.jpg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/madonnaErotica.jpg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/faith.jpg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/montero.jpg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/nina-simone-feeling-good.jpg
+
+
+
+browse all:
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/daily_mix_1.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/disco_hi_life.jpg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/the_roller_rink.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_diana_ross.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_donna_summer.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_kraftwerkjpeg.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_lilnasx.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_madonna.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_rita_lee.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/browseAll/this_is_sister_sledge.jpg
+
+
+mood Weekend:
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/moodWeekend/biscoito_globo.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/moodWeekend/boipeba.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/moodWeekend/caipirinha.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/moodWeekend/farol_itapua.jpeg
+
+/Users/rcavakian/Documents/ITSX/Topicos Avanzados en Programacion/ws-react/musicapp/src/images/moodWeekend/porto_da_barra.jpeg
+
+
+
